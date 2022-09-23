@@ -4,3 +4,7 @@ This project is realized by Wecks following this course of [LearnWeb3](https://l
 
 I will use the hardhat builder here and code this Dapp in solidity/javascript.
 
+## Front-end
+
+For the front-end part, some JS frameworks like React and Next Js will be used along with the [Web3Modal library](https://github.com/WalletConnect/web3modal).
+
