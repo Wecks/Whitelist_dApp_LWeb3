@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+# Build a whitelist dApp for an upcoming NFT Collection
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project is realized by Wecks following this course of [LearnWeb3](https://learnweb3.io/courses/c1d7081b-63a9-4c6e-b35c-9fcbbad418b2/lessons/acd04999-1230-4533-b6de-6b4e4978914c)
 
-Try running some of the following tasks:
+I will use the hardhat builder here and code this Dapp in solidity/javascript
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
